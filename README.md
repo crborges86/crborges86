@@ -9,7 +9,7 @@ Sou desenvolvedor iOS e gosto de transformar ideias em aplicativos simples, úte
 - **Arquitetura:** MVVM
 
 ## Projetos em destaque
-- [Meus Hábitos](https://github.com/crborges86/MeusHabitos): app para gestão de hábitos
+- [Meus Hábitos](https://github.com/crborges86/MeusHabitos): app para gerenciamento e acompanhamento de hábitos diários.
 
 ## Contato
 - [GitHub](https://github.com/crborges86)
