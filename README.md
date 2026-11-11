@@ -4,7 +4,7 @@ Sou desenvolvedor iOS e gosto de transformar ideias em aplicativos simples, úte
 
 ## Tecnologias
 - **Linguagem:** Swift
-- **Desenvolvimento iOS:** SwiftUI, Xcode
+- **Desenvolvimento iOS:** SwiftUI, SwiftData, Xcode
 - **Apple:** iOS SDK
 - **Arquitetura:** MVVM
 
